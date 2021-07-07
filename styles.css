@@ -1,0 +1,42 @@
+.division{
+	color: white;
+}
+h6{
+	font-size: 20px;
+	margin-bottom: 15px;
+}
+span,small{
+	color: rgba(255,255,255,0.7);
+}
+.division-1{
+	background-color: #5d1d93;
+	background-image: url("images/bg-pattern-quotation.svg");
+	background-position: 90% 10%;
+	background-repeat: no-repeat;
+}
+.division-2{
+	background-color: #617080;
+}
+.division-3{
+	background-color: white;
+	color: black;
+}
+.division-4{
+	background-color: black;
+}
+.division-5{
+	background-color: white;
+	color: black;
+}
+.division-3 span,.division-5 span,.division-3 small,.division-5 small{
+	color: grey;
+}
+.division-1,.division-2,.division-3,.division-4,.division-5{
+	margin: 0px 10px;
+	border-radius: 10px;
+	padding: 10px 20px 20px 30px;
+}
+.image{
+	border-radius: 50%;
+	margin: 15px 0px;
+}
